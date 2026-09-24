@@ -1,0 +1,18 @@
+[
+  {
+    "id": "god-of-war-ragnarok",
+    "title": "God of War Ragnarok",
+    "size": "84.6 GB",
+    "storage": "SSD",
+    "price": 750000,
+    "image": "images/ps4/god-of-war-ragnarok.jpg"
+  },
+  {
+    "id": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima",
+    "size": "35.0 GB",
+    "storage": "SSD",
+    "price": 500000,
+    "image": "images/ps4/ghost-of-tsushima.jpg"
+  }
+]

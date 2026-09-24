@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Services - DREAMS PS</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="header-wrap">
+            <a href="index.html" class="back-btn">← Kembali</a>
+            <h1>🔧 Services</h1>
+            <div class="subhead">Layanan service PlayStation</div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                <div class="number" id="total-services">0</div>
+                <div class="label">Total Service</div>
+            </div>
+        </div>
+
+        <div class="search-bar">
+            <input class="search-input" placeholder="🔍 Cari service..." />
+            <button class="btn btn-sm btn-clear">✖ Clear</button>
+        </div>
+
+        <div class="game-grid service-grid" id="service-grid">
+            <div class="loading">⏳ Memuat data...</div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+    <script>
+        loadServices();
+    </script>
+</body>
+</html>

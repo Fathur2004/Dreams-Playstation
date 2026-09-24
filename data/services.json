@@ -1,0 +1,20 @@
+[
+  {
+    "id": "repair",
+    "title": "Service Repair PS",
+    "price": 150000,
+    "image": "images/services/repair.jpg"
+  },
+  {
+    "id": "cleaning",
+    "title": "Service Cleaning PS",
+    "price": 75000,
+    "image": "images/services/cleaning.jpg"
+  },
+  {
+    "id": "installation",
+    "title": "Install Game PS",
+    "price": 50000,
+    "image": "images/services/installation.jpg"
+  }
+]
