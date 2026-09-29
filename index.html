@@ -7,12 +7,225 @@
     <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
+
+    <!-- ============ NAVBAR ============ -->
+    <nav style="
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background: #fff;
+        border-bottom: 4px solid #1a1a1a;
+        padding: 10px 20px;
+        margin: -20px -20px 25px -20px;
+        box-shadow: 0 4px 0 rgba(0,0,0,0.08);
+    ">
+        <div style="
+            max-width: 1300px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            flex-wrap: wrap;
+        ">
+            <!-- LOGO -->
+            <a href="index.html" style="
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                text-decoration: none;
+                color: #1a1a1a;
+                font-weight: 900;
+                font-size: 1.15rem;
+                letter-spacing: 1px;
+            ">
+                <span style="font-size: 1.15rem; font-weight: 900;"> DREAMS PLAYSTATION</span>
+            </a>
+
+            <!-- MENU NAVIGASI -->
+            <div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+                <a href="index.html" style="
+                    padding: 8px 16px;
+                    background: #1a1a1a;
+                    color: #ffd700;
+                    text-decoration: none;
+                    font-weight: 800;
+                    font-size: 0.85rem;
+                    border: 3px solid #1a1a1a;
+                    box-shadow: 3px 3px 0 #1a1a1a;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                ">Home</a>
+                <a href="ps3.html" style="
+                    padding: 8px 16px;
+                    background: #fff;
+                    color: #1a1a1a;
+                    text-decoration: none;
+                    font-weight: 800;
+                    font-size: 0.85rem;
+                    border: 3px solid #1a1a1a;
+                    box-shadow: 3px 3px 0 #1a1a1a;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                ">PS3</a>
+                <a href="ps4.html" style="
+                    padding: 8px 16px;
+                    background: #fff;
+                    color: #1a1a1a;
+                    text-decoration: none;
+                    font-weight: 800;
+                    font-size: 0.85rem;
+                    border: 3px solid #1a1a1a;
+                    box-shadow: 3px 3px 0 #1a1a1a;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                ">PS4</a>
+                <a href="ps5.html" style="
+                    padding: 8px 16px;
+                    background: #fff;
+                    color: #1a1a1a;
+                    text-decoration: none;
+                    font-weight: 800;
+                    font-size: 0.85rem;
+                    border: 3px solid #1a1a1a;
+                    box-shadow: 3px 3px 0 #1a1a1a;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                ">PS5</a>
+                <a href="services.html" style="
+                    padding: 8px 16px;
+                    background: #fff;
+                    color: #1a1a1a;
+                    text-decoration: none;
+                    font-weight: 800;
+                    font-size: 0.85rem;
+                    border: 3px solid #1a1a1a;
+                    box-shadow: 3px 3px 0 #1a1a1a;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                ">Services</a>
+            </div>
+
+            <!-- TOMBOL WHATSAPP -->
+            <a href="https://wa.me/6289668984861?text=Halo%20DREAMS%20PS%2C%20saya%20mau%20tanya"
+               target="_blank"
+               style="
+                    display: flex;
+                    align-items: center;
+                    gap: 6px;
+                    padding: 10px 20px;
+                    background: #25d366;
+                    color: #fff;
+                    text-decoration: none;
+                    font-weight: 800;
+                    font-size: 0.85rem;
+                    border: 3px solid #1a1a1a;
+                    box-shadow: 4px 4px 0 #1a1a1a;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                    white-space: nowrap;
+               ">
+                💬 Hubungi Kami
+            </a>
+        </div>
+    </nav>
+
+    <!-- ============ HERO ============ -->
+    <div style="
+        text-align: center;
+        position: relative;
+        background-image: url('images/logo.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #0a0e1a;
+        border: 4px solid #1a1a1a;
+        box-shadow: 8px 8px 0 #1a1a1a;
+        padding: 90px 25px;
+        margin: 0 -20px 35px -20px;
+        min-height: 400px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    ">
+        <!-- Overlay gelap biar tulisan kebaca -->
+        <div style="
+            position: absolute;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.55);
+            z-index: 1;
+        "></div>
+
+        <!-- Konten di atas overlay -->
+        <div style="position: relative; z-index: 2; max-width: 900px;">
+            <span style="
+                display: inline-block;
+                background: #1a1a1a;
+                color: #ffd700;
+                padding: 6px 18px;
+                font-size: 0.8rem;
+                font-weight: 800;
+                letter-spacing: 2px;
+                text-transform: uppercase;
+                margin-bottom: 15px;
+                border: 2px solid #ffd700;
+            ">Terlengkap & Termurah</span>
+
+            <h2 style="
+                font-size: 3rem;
+                font-weight: 900;
+                letter-spacing: 3px;
+                text-transform: uppercase;
+                color: #fff;
+                margin-bottom: 15px;
+                line-height: 1.1;
+                text-shadow: 3px 3px 0 #1a1a1a;
+            ">
+                Selamat Datang di<br>
+                <span style="color: #ffd700;">DREAMS PLAYSTATION</span>
+            </h2>
+
+            <p style="
+                font-size: 1rem;
+                color: #eee;
+                font-weight: 600;
+                margin-bottom: 25px;
+                line-height: 1.6;
+                text-shadow: 2px 2px 0 rgba(0,0,0,0.8);
+            ">
+                Koleksi game PlayStation 3, PS4, dan PS5 lengkap dengan harga terjangkau.<br>
+                Temukan game impianmu di sini!
+            </p>
+
+            <a href="https://wa.me/6289668984861?text=Halo%20DREAMS%20PS%2C%20saya%20mau%20order"
+               target="_blank"
+               style="
+                    display: inline-block;
+                    padding: 14px 30px;
+                    background: #25d366;
+                    color: #fff;
+                    text-decoration: none;
+                    font-weight: 800;
+                    font-size: 0.95rem;
+                    border: 4px solid #1a1a1a;
+                    box-shadow: 5px 5px 0 #1a1a1a;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+               ">
+                💬 Order via WhatsApp
+            </a>
+        </div>
+    </div>
+
+    <!-- ============ HEADER ============ -->
     <div class="container">
         <div class="header-wrap">
-            <h1>🎮 DREAMS PS</h1>
+            <h1>DREAMS PLAYSTATION</h1>
             <div class="subhead">PS3 · PS4 · PS5 — Temukan koleksi game impianmu</div>
         </div>
 
+        <!-- ============ MENU CARDS ============ -->
         <div class="menu-cards">
             <a href="ps3.html" class="menu-card" style="border-color: #0070f3;">
                 <div class="menu-icon">🟦</div>
@@ -36,5 +249,133 @@
             </a>
         </div>
     </div>
+
+    <!-- ============ CTA SECTION ============ -->
+    <div style="
+        max-width: 1300px;
+        margin: 45px auto 30px;
+        background: #1a1a1a;
+        color: #fff;
+        border: 4px solid #1a1a1a;
+        box-shadow: 8px 8px 0 #ffd700;
+        padding: 40px 25px;
+        text-align: center;
+    ">
+        <h3 style="
+            font-size: 1.6rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            color: #ffd700;
+        ">Butuh Bantuan atau Mau Order?</h3>
+        <p style="
+            font-size: 1rem;
+            color: #ccc;
+            font-weight: 600;
+            margin-bottom: 22px;
+        ">Hubungi kami langsung via WhatsApp untuk respon cepat!</p>
+        <a href="https://wa.me/6289668984861?text=Halo%20DREAMS%20PS%2C%20saya%20mau%20tanya"
+           target="_blank"
+           style="
+                display: inline-block;
+                padding: 14px 32px;
+                background: #25d366;
+                color: #fff;
+                text-decoration: none;
+                font-weight: 800;
+                font-size: 1rem;
+                border: 4px solid #1a1a1a;
+                box-shadow: 5px 5px 0 #ffd700;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+           ">
+            💬 klik untuk lanjut WhatsApp
+        </a>
+    </div>
+
+    <!-- ============ FOOTER ============ -->
+    <footer style="
+        background: #1a1a1a;
+        color: #fff;
+        border-top: 4px solid #ffd700;
+        padding: 40px 20px 20px;
+        margin: 30px -20px -20px -20px;
+    ">
+        <div style="
+            max-width: 1300px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 30px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid #333;
+        ">
+            <!-- BRAND -->
+            <div>
+                <div style="
+                    font-size: 1.2rem;
+                    font-weight: 900;
+                    color: #ffd700;
+                    letter-spacing: 1px;
+                    margin-bottom: 10px;
+                    text-transform: uppercase;
+                ">DREAMS PLAYSTATION</div>
+                <p style="
+                    color: #aaa;
+                    font-size: 0.9rem;
+                    font-weight: 600;
+                    line-height: 1.6;
+                ">Koleksi game PlayStation lengkap, harga terjangkau, pelayanan cepat.</p>
+            </div>
+
+            <!-- NAVIGASI -->
+            <div>
+                <h4 style="
+                    color: #ffd700;
+                    font-size: 0.95rem;
+                    font-weight: 800;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                    margin-bottom: 12px;
+                ">Navigasi</h4>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="margin-bottom: 6px;"><a href="index.html" style="color: #ccc; text-decoration: none; font-weight: 600; font-size: 0.9rem;">Home</a></li>
+                    <li style="margin-bottom: 6px;"><a href="ps3.html" style="color: #ccc; text-decoration: none; font-weight: 600; font-size: 0.9rem;">Library PS3</a></li>
+                    <li style="margin-bottom: 6px;"><a href="ps4.html" style="color: #ccc; text-decoration: none; font-weight: 600; font-size: 0.9rem;">Library PS4</a></li>
+                    <li style="margin-bottom: 6px;"><a href="ps5.html" style="color: #ccc; text-decoration: none; font-weight: 600; font-size: 0.9rem;">Library PS5</a></li>
+                    <li style="margin-bottom: 6px;"><a href="services.html" style="color: #ccc; text-decoration: none; font-weight: 600; font-size: 0.9rem;">Services</a></li>
+                </ul>
+            </div>
+
+            <!-- KONTAK -->
+            <div>
+                <h4 style="
+                    color: #ffd700;
+                    font-size: 0.95rem;
+                    font-weight: 800;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                    margin-bottom: 12px;
+                ">Hubungi Kami</h4>
+                <p style="color: #ccc; font-size: 0.9rem; margin-bottom: 8px;">
+                    💬 WhatsApp:
+                    <a href="https://wa.me/6289668984861" target="_blank" style="color: #25d366; text-decoration: none; font-weight: 700;">0896 6898 4861</a>
+                </p>
+                <p style="color: #ccc; font-size: 0.9rem; margin-bottom: 8px;">📍 Lokasi: Jalan Irigasi Komplek Griya Mulia 1 Blok B No 2</p>
+                <p style="color: #ccc; font-size: 0.9rem; margin-bottom: 8px;">🕐 Jam Buka: 10.00 – 21.00</p>
+            </div>
+        </div>
+
+        <div style="
+            text-align: center;
+            padding-top: 18px;
+            color: #888;
+            font-size: 0.85rem;
+        ">
+            © 2026 DREAMS PLAYSTATION. All rights reserved.
+        </div>
+    </footer>
+
 </body>
 </html>
