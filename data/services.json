@@ -1,20 +1,134 @@
 [
   {
-    "id": "repair",
-    "title": "Service Repair PS",
+    "id": "1",
+    "title": "Deep cleaning + ganti pasta luar [ps3]",
     "price": 150000,
     "image": "images/services/repair.jpg"
   },
   {
-    "id": "cleaning",
-    "title": "Service Cleaning PS",
-    "price": 75000,
+    "id": "2",
+    "title": "Deep cleaning + ganti pasta luar & dalam  [ps3]",
+    "price": 200000,
     "image": "images/services/cleaning.jpg"
   },
   {
-    "id": "installation",
-    "title": "Install Game PS",
+    "id": "3",
+    "title": "Deep cleaning + ganti pasta [ps4 fat]",
+    "price": 200000,
+    "image": "images/services/installation.jpg"
+  },
+   {
+    "id": "4",
+    "title": "Deep cleaning + ganti pasta [ps4 slim]",
+    "price": 250000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Deep cleaning + ganti pasta [ps4 pro]",
+    "price": 300000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "6",
+    "title": "jasa hen ps4 [tidak termasuk game]",
     "price": 50000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "7",
+    "title": "rivert/downgrade ps4",
+    "price": 600000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Ganti ic hdmi ps3",
+    "price": 300000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "9",
+    "title": "service mati total ps3",
+    "price": 300000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "10",
+    "title": "service mati total ps4",
+    "price": 700000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "11",
+    "title": "ganti hardisk ps3/ps4 include full game [500GB]",
+    "price": 400000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "12",
+    "title": "ganti hardisk ps3/ps4 include full game [1TB]",
+    "price": 650000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "13",
+    "title": "install software ps3",
+    "price": 50000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "14",
+    "title": "install software ps4",
+    "price": 100000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "15",
+    "title": "ganti analog stik ps3 original pabrik [per analog]",
+    "price": 15000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "16",
+    "title": "ganti analog stik ps3 original mesin [per analog]",
+    "price": 65000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "17",
+    "title": "ganti analog stik ps4 original pabrik [per analog]",
+    "price": 30000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "18",
+    "title": "ganti analog stik ps4 original mesin [per analog]",
+    "price": 75000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "19",
+    "title": "ganti pcb plastik stik ps3 original pabrik",
+    "price": 10000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "20",
+    "title": "ganti pcb plastik stik ps3 original mesin",
+    "price": 30000,
+    "image": "images/services/installation.jpg"
+  },
+   {
+    "id": "21",
+    "title": "ganti pcb plastik stik ps4 original pabrik",
+    "price": 20000,
+    "image": "images/services/installation.jpg"
+  },
+  {
+    "id": "22",
+    "title": "ganti pcb plastik stik ps4 original mesin",
+    "price": 30000,
     "image": "images/services/installation.jpg"
   }
 ]
