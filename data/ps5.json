@@ -110,5 +110,53 @@
     "storage": "Hardisk PS5 [2]",
     "price": 25000,
     "image": "images/ps5/[Silent Hill f]_PPSA21159.jpg"
+  },
+    {
+    "id": "15",
+    "title": "Beast of Reincarnation",
+    "size": "32 GB",
+    "storage": "Hardisk PS5 [3]",
+    "price": 25000,
+    "image": "images/ps5/[Beast of Reincarnation]_PPSA29343 4xx.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Crimson Desert Deluxe Edition",
+    "size": "89 GB",
+    "storage": "Hardisk PS5 [3]",
+    "price": 35000,
+    "image": "images/ps5/[Crimson Desert Deluxe Edition].jpg"
+  },
+  {
+    "id": "17",
+    "title": "Mortal Kombat 1",
+    "size": "162 GB",
+    "storage": "Hardisk PS5 [3]",
+    "price": 55000,
+    "image": "images/ps5/[Mortal Kombat 1].jpg"
+  },
+  {
+    "id": "18",
+    "title": "MotoGP 26",
+    "size": "21 GB",
+    "storage": "Hardisk PS5 [3]",
+    "price": 25000,
+    "image": "images/ps5/[MotoGP 26].jpg"
+  },
+  {
+    "id": "19",
+    "title": "SILENT HILL 2",
+    "size": "52 GB",
+    "storage": "Hardisk PS5 [3]",
+    "price": 35000,
+    "image": "images/ps5/[SILENT HILL 2].jpg"
+  },
+  {
+    "id": "20",
+    "title": "Tekken 8",
+    "size": "106 GB",
+    "storage": "Hardisk PS5 [3]",
+    "price": 45000,
+    "image": "images/ps5/[Tekken 8].jpg"
   }
 ]
