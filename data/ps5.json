@@ -1,18 +1,114 @@
 [
   {
-    "id": "demons-souls",
-    "title": "Demon's Souls",
-    "size": "52.0 GB",
-    "storage": "SSD NVMe",
-    "price": 850000,
-    "image": "images/ps5/demons-souls.jpg"
+    "id": "1",
+    "title": "Marvels Spider-Man 2 Deluxe Edition",
+    "size": "115 GB",
+    "storage": "Hardisk PS5 [1]",
+    "price": 45000,
+    "image": "images/ps5/[Marvels Spider-Man 2 Deluxe Edition]_PPSA03016.jpg"
   },
   {
-    "id": "spiderman-2",
-    "title": "Spider-Man 2",
-    "size": "82.4 GB",
-    "storage": "SSD NVMe",
-    "price": 900000,
-    "image": "images/ps5/spiderman-2.jpg"
+    "id": "2",
+    "title": "Resident Evil Requiem",
+    "size": "77 GB",
+    "storage": "Hardisk PS5 [1]",
+    "price": 35000,
+    "image": "images/ps5/[Resident Evil Requiem]_PPSA31246.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Spider-Man Miles Morales",
+    "size": "53 GB",
+    "storage": "Hardisk PS5 [1]",
+    "price": 35000,
+    "image": "images/ps5/[Spider-Man Miles Morales]_PPSA01417.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Spider-Man Remastered",
+    "size": "71 GB",
+    "storage": "Hardisk PS5 [1]",
+    "price": 35000,
+    "image": "images/ps5/[Spider-Man Remastered]_PPSA01467.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Split Fiction",
+    "size": "80 GB",
+    "storage": "Hardisk PS5 [1]",
+    "price": 35000,
+    "image": "images/ps5/[Split Fiction]_PPSA08560.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Warhammer 40000 Space Marine 2",
+    "size": "64 GB",
+    "storage": "Hardisk PS5 [1]",
+    "price": 35000,
+    "image": "images/ps5/[Warhammer 40000 Space Marine 2]_PPSA04451.jpg"
+  },
+    {
+    "id": "7",
+    "title": "Black Myth Wukong Deluxe Edition",
+    "size": "108 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 45000,
+    "image": "images/ps5/[Black Myth Wukong Deluxe Edition].jpg"
+  },
+  {
+    "id": "8",
+    "title": "Cronos The New Dawn",
+    "size": "20 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 25000,
+    "image": "images/ps5/[Cronos The New Dawn]_PPSA24096.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Ghost of Tsushima Directors Cut",
+    "size": "68 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 35000,
+    "image": "images/ps5/[Ghost of Tsushima Directors Cut]_PPSA02225.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Ghost of Yotei Deluxe Edition",
+    "size": "96 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 35000,
+    "image": "images/ps5/[Ghost of Yotei Deluxe Edition].jpg"
+  },
+  {
+    "id": "11",
+    "title": "LEGO Horizon Adventures",
+    "size": "14 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 25000,
+    "image": "images/ps5/[LEGO Horizon Adventures]_PPSA14632.jpg"
+  },
+  {
+    "id": "12",
+    "title": "PRAGMATA Deluxe Edition",
+    "size": "36 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 25000,
+    "image": "images/ps5/[PRAGMATA Deluxe Edition].jpg"
+  },
+  {
+    "id": "13",
+    "title": "Saros",
+    "size": "82 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 35000,
+    "image": "images/ps5/[Saros]_PPSA07631.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Silent Hill f",
+    "size": "38 GB",
+    "storage": "Hardisk PS5 [2]",
+    "price": 25000,
+    "image": "images/ps5/[Silent Hill f]_PPSA21159.jpg"
   }
 ]
