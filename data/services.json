@@ -3,132 +3,132 @@
     "id": "1",
     "title": "Deep cleaning + ganti pasta luar [ps3]",
     "price": 150000,
-    "image": "images/services/repair.jpg"
+    "image": "images/services/1.jpg"
   },
   {
     "id": "2",
     "title": "Deep cleaning + ganti pasta luar & dalam  [ps3]",
     "price": 200000,
-    "image": "images/services/cleaning.jpg"
+    "image": "images/services/2.jpg"
   },
   {
     "id": "3",
     "title": "Deep cleaning + ganti pasta [ps4 fat]",
     "price": 200000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/3.jpg"
   },
    {
     "id": "4",
     "title": "Deep cleaning + ganti pasta [ps4 slim]",
     "price": 250000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/4.jpg"
   },
   {
     "id": "5",
     "title": "Deep cleaning + ganti pasta [ps4 pro]",
     "price": 300000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/5.jpg"
   },
   {
     "id": "6",
     "title": "jasa hen ps4 [tidak termasuk game]",
     "price": 50000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/6.jpg"
   },
   {
     "id": "7",
     "title": "rivert/downgrade ps4",
     "price": 600000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/7.jpg"
   },
   {
     "id": "8",
     "title": "Ganti ic hdmi ps3",
     "price": 300000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/8.jpg"
   },
   {
     "id": "9",
     "title": "service mati total ps3",
     "price": 300000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/9.jpg"
   },
   {
     "id": "10",
     "title": "service mati total ps4",
     "price": 700000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/10.jpg"
   },
   {
     "id": "11",
     "title": "ganti hardisk ps3/ps4 include full game [500GB]",
     "price": 400000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/11.jpg"
   },
   {
     "id": "12",
     "title": "ganti hardisk ps3/ps4 include full game [1TB]",
     "price": 650000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/12.jpg"
   },
   {
     "id": "13",
     "title": "install software ps3",
     "price": 50000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/13.jpg"
   },
   {
     "id": "14",
     "title": "install software ps4",
     "price": 100000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/14.jpg"
   },
   {
     "id": "15",
     "title": "ganti analog stik ps3 original pabrik [per analog]",
     "price": 15000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/15.jpg"
   },
   {
     "id": "16",
     "title": "ganti analog stik ps3 original mesin [per analog]",
     "price": 65000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/16.jpg"
   },
   {
     "id": "17",
     "title": "ganti analog stik ps4 original pabrik [per analog]",
     "price": 30000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/17.jpg"
   },
   {
     "id": "18",
     "title": "ganti analog stik ps4 original mesin [per analog]",
     "price": 75000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/18.jpg"
   },
   {
     "id": "19",
     "title": "ganti pcb plastik stik ps3 original pabrik",
     "price": 10000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/19.jpg"
   },
   {
     "id": "20",
     "title": "ganti pcb plastik stik ps3 original mesin",
     "price": 30000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/20.jpg"
   },
    {
     "id": "21",
     "title": "ganti pcb plastik stik ps4 original pabrik",
     "price": 20000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/21.jpg"
   },
   {
     "id": "22",
     "title": "ganti pcb plastik stik ps4 original mesin",
     "price": 30000,
-    "image": "images/services/installation.jpg"
+    "image": "images/services/22.jpg"
   }
 ]
